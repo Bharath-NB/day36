@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6671a974d9cba9fcebbd852e"
+  },
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "mentees_count": 20
+},
+{
+  "_id": {
+    "$oid": "6671a974d9cba9fcebbd852f"
+  },
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "mentees_count": 15
+},
+{
+  "_id": {
+    "$oid": "6671a974d9cba9fcebbd8530"
+  },
+  "name": "Michael Johnson",
+  "email": "michael.johnson@example.com",
+  "mentees_count": 12
+},
+{
+  "_id": {
+    "$oid": "6671a974d9cba9fcebbd8531"
+  },
+  "name": "Emily Brown",
+  "email": "emily.brown@example.com",
+  "mentees_count": 25
+},
+{
+  "_id": {
+    "$oid": "6671a974d9cba9fcebbd8532"
+  },
+  "name": "David Lee",
+  "email": "david.lee@example.com",
+  "mentees_count": 18
+}]

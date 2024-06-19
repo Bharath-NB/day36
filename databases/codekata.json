@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb4e"
+  },
+  "id": "1",
+  "problem_id": 8,
+  "date_solved": "2024-09-08T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb4f"
+  },
+  "id": "2",
+  "problem_id": 5,
+  "date_solved": "2024-09-05T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb50"
+  },
+  "id": "3",
+  "problem_id": 10,
+  "date_solved": "2024-09-15T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb51"
+  },
+  "user_id": "4",
+  "problem_id": 3,
+  "date_solved": "2024-09-02T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb52"
+  },
+  "id": "5",
+  "problem_id": 7,
+  "date_solved": "2024-09-10T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb53"
+  },
+  "id": "6",
+  "problem_id": 2,
+  "date_solved": "2024-09-01T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb54"
+  },
+  "id": "7",
+  "problem_id": 4,
+  "date_solved": "2024-09-03T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb55"
+  },
+  "id": "8",
+  "problem_id": 6,
+  "date_solved": "2024-09-08T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb56"
+  },
+  "id": "9",
+  "problem_id": 1,
+  "date_solved": "2024-09-01T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a2e2ce2b1e15fed3eb57"
+  },
+  "id": "10",
+  "problem_id": 10,
+  "date_solved": "2024-09-15T00:00:00Z"
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd851f"
+  },
+  "name": "Introduction to Web Development",
+  "date": "2024-09-01T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8520"
+  },
+  "name": "Frontend Development Basics",
+  "date": "2024-09-05T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8521"
+  },
+  "name": "HTML and CSS Fundamentals",
+  "date": "2024-09-10T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8522"
+  },
+  "name": "JavaScript Essentials",
+  "date": "2024-09-15T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8523"
+  },
+  "name": "Backend Development Introduction",
+  "date": "2024-09-20T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8524"
+  },
+  "name": "Node.js Basics",
+  "date": "2024-09-25T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8525"
+  },
+  "name": "Express.js Fundamentals",
+  "date": "2024-10-01T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8526"
+  },
+  "name": "Database Design and Management",
+  "date": "2024-10-05T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8527"
+  },
+  "name": "MongoDB Essentials",
+  "date": "2024-10-10T00:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6671a618d9cba9fcebbd8528"
+  },
+  "name": "React.js Basics",
+  "date": "2024-10-15T00:00:00Z"
+}]

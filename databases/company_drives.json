@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6672d213d9cba9fcebbd8533"
+  },
+  "id": "1",
+  "company_name": "TechCorp Inc.",
+  "date": {
+    "$date": "2024-09-20T00:00:00.000Z"
+  },
+  "students": [
+    {
+      "$oid": "6671a001ce2b1e15fed3eb37"
+    },
+    {
+      "$oid": "6671a02cce2b1e15fed3eb39"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6672d213d9cba9fcebbd8534"
+  },
+  "id": "2",
+  "company_name": "Code Masters Ltd.",
+  "date": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "students": [
+    {
+      "$oid": "6671a054ce2b1e15fed3eb3b"
+    },
+    {
+      "$oid": "6671a076ce2b1e15fed3eb3d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6672d213d9cba9fcebbd8535"
+  },
+  "id": "3",
+  "company_name": "Tech Solutions LLC",
+  "date": {
+    "$date": "2024-10-15T00:00:00.000Z"
+  },
+  "students": [
+    {
+      "$oid": "6671a0a2ce2b1e15fed3eb3f"
+    },
+    {
+      "$oid": "6671a0c3ce2b1e15fed3eb41"
+    }
+  ]
+}]

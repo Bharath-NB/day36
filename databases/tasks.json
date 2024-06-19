@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6671a71cd9cba9fcebbd8529"
+  },
+  "topic_id": "1",
+  "name": "Create a Simple Web Page",
+  "description": "Design a basic web page using HTML and CSS.",
+  "deadline": "2024-09-15T23:59:59Z"
+},
+{
+  "_id": {
+    "$oid": "6671a71cd9cba9fcebbd852a"
+  },
+  "topic_id": "2",
+  "name": "Build a Responsive Website",
+  "description": "Develop a responsive website using Bootstrap.",
+  "deadline": "2024-09-30T23:59:59Z"
+},
+{
+  "_id": {
+    "$oid": "6671a71cd9cba9fcebbd852b"
+  },
+  "topic_id": "3",
+  "name": "Implement JavaScript Functionality",
+  "description": "Add interactive features using JavaScript.",
+  "deadline": "2024-10-10T23:59:59Z"
+},
+{
+  "_id": {
+    "$oid": "6671a71cd9cba9fcebbd852c"
+  },
+  "topic_id": "4",
+  "name": "Create a RESTful API",
+  "description": "Develop a RESTful API using Node.js and Express.js.",
+  "deadline": "2024-10-20T23:59:59Z"
+},
+{
+  "_id": {
+    "$oid": "6671a71cd9cba9fcebbd852d"
+  },
+  "topic_id": "5",
+  "name": "Design and Implement MongoDB Database",
+  "description": "Design and implement MongoDB schemas for your application.",
+  "deadline": "2024-10-30T23:59:59Z"
+}]
